@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Good eveninig
-=======
-good morning
->>>>>>> 3090ff69552eab67b34bcf0853d384ebe249497b
