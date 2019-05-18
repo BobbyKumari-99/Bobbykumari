@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-12244iii5
+How are you
+
 =======
-xhnjc fhkjj jh
+
 >>>>>>> b6e2e10269049fce21fe77e2e3b3fa246535955a
