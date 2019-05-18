@@ -1,6 +1,2 @@
 <<<<<<< HEAD
-12344
-
-=======
-hello
->>>>>>> b57bd87586e2ce4773dee6637bfc084cd7dba589
+12344i hi how are you
